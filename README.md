@@ -1,0 +1,1 @@
+# Mostly Notes, projects, and Exercises from DeepLearning.ai 
