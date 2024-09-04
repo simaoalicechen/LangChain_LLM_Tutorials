@@ -1,5 +1,11 @@
 .env
 .ipynb_checkpoints
 Building_Systems_with_the_ChatGPT_API/.ipynb_checkpoints
+Building_Systems_with_the_ChatGPT_API/myenv
 LangChain_Chat_Data/.ipynb_checkpoints
+LangChain_Chat_Data/myenv
 LangChain_LLM/.ipynb_checkpoints
+LangChain_LLM/myenv
+Embedding_Models_from_Architecture_to_Implementation/.ipynb_checkpoints
+Embedding_Models_from_Architecture_to_Implementation/myenv
+
