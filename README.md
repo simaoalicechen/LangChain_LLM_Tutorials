@@ -3,4 +3,4 @@
 
 
 
-##### Note: Any API keys present in this repository are defunct and no longer valid.
+##### Note: If you see any traces of API keys, know they are defunct.
